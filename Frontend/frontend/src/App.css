@@ -1,0 +1,36 @@
+.main {
+    margin-top: 10em;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+  }
+  
+  .center {
+    justify-content: center;
+    padding: 10px;
+  }
+  
+  .ui.search input {
+    width: 80%;
+    border-radius: 0 !important;
+  }
+  
+  .item {
+    
+    padding: 15px 0px !important;
+    
+  }
+  _
+  
+  
+  i.icon {
+    float: right;
+    font-size: 20px;
+    cursor: pointer;
+  }
+
+  .field{
+      width: 100%;
+  }
+
+  
